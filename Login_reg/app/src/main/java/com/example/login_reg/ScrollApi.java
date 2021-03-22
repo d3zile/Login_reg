@@ -1,4 +1,4 @@
-package com.example.color;
+package com.example.login_reg;
 
 import java.util.List;
 
@@ -7,12 +7,12 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 import retrofit2.http.GET;
 
-public interface FlowersAPI {
-    @GET("feeds/flowers.json")
-    Call<List<Flower>> getData();
+public interface ScrollApi {
+    @GET("/movies?filter=inTrend")
+    Call<List<Movie>> getData();
 
     Retrofit retrofit = new Retrofit.Builder()
-            .baseUrl("https://services.hanselandpetal.com/")
+            .baseUrl("http://cinema.areas.su/")
             .addConverterFactory(GsonConverterFactory.create())
             .build();
 }

@@ -1,4 +1,4 @@
-package com.example.color;
+package com.example.kinopoisk;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -13,52 +13,53 @@ import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
-class FlowerAdapter extends RecyclerView.Adapter<FlowerAdapter.ViewHolder> {
-
-    private final static String PHOTO_URL = "https://cinema.areas.su/up/images/";
-    private List<Flower> mFlowers;
+public class HorMoviesAdapter extends RecyclerView.Adapter<HorMoviesAdapter.ViewHolder>{
+    private final static String PHOTO_URL = "http://cinema.areas.su/up/images/";
+    private List<Movies> mMovies;
     private Context mContext;
 
-    FlowerAdapter(List<Flower> flowers) {
-        this.mFlowers = flowers;
+    HorMoviesAdapter(List<Movies> flowers) {
+        this.mMovies = flowers;
     }
 
     @Override
     public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         mContext = parent.getContext();
         View view = LayoutInflater.from(parent.getContext())
-                .inflate(R.layout.list_item, parent, false);
+                .inflate(R.layout.list_item_hor, parent, false);
         return new ViewHolder(view);
     }
 
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
 
-        Flower flower = mFlowers.get(position);
-        holder.nameTextView.setText(flower.getName());
+        Movies movie = mMovies.get(position);
+        holder.nameTextView.setText(movie.getName());
+        holder.description.setText(movie.getDescription());
 
         Picasso.with(mContext)
-                .load(PHOTO_URL + flower.getPhoto())
-                .resize(200, 150)
+                .load(PHOTO_URL + movie.getPoster())
+                .resize(300, 500)
                 .into(holder.flowerImageView);
     }
 
     @Override
     public int getItemCount() {
-        if (mFlowers == null) {
+        if (mMovies == null) {
             return 0;
         }
-        return mFlowers.size();
+        return mMovies.size();
     }
 
     class ViewHolder extends RecyclerView.ViewHolder {
-        TextView nameTextView;
+        TextView nameTextView, description;
         ImageView flowerImageView;
 
         ViewHolder(View itemView) {
             super(itemView);
-            nameTextView = (TextView) itemView.findViewById(R.id.nameTextView);
-            flowerImageView = (ImageView) itemView.findViewById(R.id.itemImageView);
+            description = itemView.findViewById(R.id.textView4);
+            nameTextView = (TextView) itemView.findViewById(R.id.textView);
+            flowerImageView = (ImageView) itemView.findViewById(R.id.imageView3);
         }
     }
 }
