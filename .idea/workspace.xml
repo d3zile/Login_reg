@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="172a9907-2a8e-4763-b7e1-9dd53e0e6454" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Demo2/app/src/main/java/com/example/demo/Reg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo2/app/src/main/java/com/example/demo/load.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/awd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/cxvvxc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/dhh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/ewwq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/hjy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/kei.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/sssa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/wadd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/wq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/www.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/wwwq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/layout/load.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/layout/reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo_pract/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo_pract/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo_practica/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo_practica/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/androidTest/java/com/example/demoekz/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/java/com/example/demoekz/History.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/java/com/example/demoekz/Load.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/java/com/example/demoekz/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/java/com/example/demoekz/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/java/com/example/demoekz/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/java/com/example/demoekz/SignIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/java/com/example/demoekz/SignUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/java/com/example/demoekz/StartScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable-v24/_76_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable-v24/_78_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable-v24/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable-v24/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable-v24/divider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable-v24/dividerr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable-v24/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable-v24/irast.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable-v24/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable-v24/panel1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable-v24/pryam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable-v24/vert5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/ava.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/bg_map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/content.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/darc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/i.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/osvet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/pin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/drawable/zamok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/layout/history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/layout/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/layout/settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/layout/signin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/layout/signup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/layout/startscreen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/app/src/test/java/com/example/demoekz/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekzamen/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/androidTest/java/com/example/gym/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/java/com/example/gym/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/adv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/build.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/crug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/crug1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/female.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/fon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/fonn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/keep.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/keeping.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/legs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/lin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/m.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/male.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/pr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/pr1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/pr2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/save.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/spine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/torso.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/drawable/weight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/layout/hello_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/layout/hello_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/layout/hello_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/layout/hello_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/layout/hello_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/layout/launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/app/src/test/java/com/example/gym/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2/app/src/main/java/com/example/demo/HomeActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2/app/src/main/java/com/example/demo/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Demo2/app/src/main/java/com/example/demo/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/dddd.png" beforeDir="false" afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/sad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/fon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/fon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/gfty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/log1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/log2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/log3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/logg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/reg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2/app/src/main/res/drawable-v24/sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2/app/src/main/res/layout/activity_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo2/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo2/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoO/app/src/main/java/com/example/demoo/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/DemoO/app/src/main/java/com/example/demoo/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_pract/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/java/com/example/demo/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/java/com/example/demo/Registration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/java/com/example/demo/load.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/res/drawable-v24/ewwq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/res/drawable-v24/wq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/res/drawable/awd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/res/drawable/cxvvxc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/res/drawable/dhh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/res/drawable/hjy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/res/drawable/kei.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/res/drawable/sad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/res/drawable/sssa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/res/drawable/wadd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/res/drawable/www.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/res/drawable/wwwq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/res/layout/load.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_pract/app/src/main/res/layout/registration.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_practica/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo_practica/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_practica/app/src/main/java/com/example/demo/Registration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_practica/app/src/main/java/com/example/demo/load.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ngobar-Movie-Catalog/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ngobar-Movie-Catalog/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ngobar-Movie-Catalog/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/Ngobar-Movie-Catalog/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ngobar-Movie-Catalog/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Ngobar-Movie-Catalog/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Demo" />
+  </component>
+  <component name="ProjectId" id="1llziTzoqVciFiHir7OEefHqwIe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="172a9907-2a8e-4763-b7e1-9dd53e0e6454" name="Default Changelist" comment="" />
+      <created>1608186592627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608186592627</updated>
+    </task>
+    <servers />
+  </component>
+</project>

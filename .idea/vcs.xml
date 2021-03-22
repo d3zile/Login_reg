@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Demo2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DemoO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Demo_pract" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Demo_practica" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ngobar-Movie-Catalog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ekzamen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fitnes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gym" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sharina1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ymaps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ymaps-android-webview" vcs="Git" />
+  </component>
+</project>
